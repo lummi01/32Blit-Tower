@@ -1,6 +1,6 @@
 # 32Blit Tower
-Use A-Button to build your tower to the top of the screen.</BR>
-Get points with new stage, positioning the blocks exactly and reaching the top.
+Use the A-Button to build your tower to the top of the screen.</BR>
+Get points with new steps, positioning the blocks exactly and reaching the top as big as possible.
 
 For local builds:
 ```
