@@ -1,4 +1,8 @@
 # 32Blit Tower
+Build your tower to the top of the screen.
+Get points for level, reaching the top and exact positioning.
+
+Building with A-Button.
 
 For 32Blit builds this is:
 ```
