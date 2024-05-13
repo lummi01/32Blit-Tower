@@ -1,5 +1,5 @@
-title: 32Blit Tower
-description: build your tower and reach the sky
+title: Tower
+description: build your tower and reach the sky.
 author: M. Gerloff
 splash:
   file: assets/image.png
@@ -7,4 +7,4 @@ icon:
   file: assets/icon.png
 version: v0.0.2
 category: game
-url: https://github.com/lummi01/32blit-tower
+url: https://github.com/lummi01/32blit-Tower
