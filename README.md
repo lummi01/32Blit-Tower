@@ -1,6 +1,10 @@
+![](/assets/image.png)
 # 32Blit Tower
+a simple reaction game for 32Blit.
+
 Use the A-Button to build your tower to the top of the screen.</BR>
 Get points with new steps, positioning the blocks exactly and reaching the top as big as possible.
+![](/assets/Tower01.bmp)
 
 For local builds:
 ```
