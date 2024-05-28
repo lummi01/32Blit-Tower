@@ -3,7 +3,7 @@
 a simple reaction game for 32Blit.
 
 Use the A-Button to build your tower to the top of the screen.</BR>
-Get points with new steps, positioning the blocks exactly and reaching the top as big as possible.<BR>
+Get points with new blocks, positioning the blocks exactly and reaching the top as width as possible.<BR>
 ![](/assets/Tower0.bmp)
 <BR>
 For local builds:
